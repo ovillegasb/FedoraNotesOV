@@ -3,7 +3,7 @@
 ###############################################################################
 # CONVERT *.video to *.mkv                                                    #
 #                                                                             #
-# 	to_mkv video target_directory options*                                    #
+# 	to_mkv video target_directory options*                                #
 #                                                                             #
 #                                                                             #
 #                                                                             #
