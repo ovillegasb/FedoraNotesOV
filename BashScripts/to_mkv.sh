@@ -38,6 +38,7 @@ fi
 
 # Some common options:
 # -vf scale=480:360
+# -vf scale=1280x720
 
 # Print check
 echo "File: $file"
